@@ -1,6 +1,6 @@
 ### Hosting Steps
-1. Setup Remote Server
-2. Setup PostgreSQL
-3. Setup Django
-4. Setup Gunicorn
-5. Setup Nginx
+1. Remote Server Setup 
+2. PostgreSQL Setup 
+3. Django Setup 
+4. Gunicorn Setup 
+5. Nginx Setup 
