@@ -4,5 +4,3 @@
 3. Setup Django
 4. Setup Gunicorn
 5. Setup Nginx
-
-
